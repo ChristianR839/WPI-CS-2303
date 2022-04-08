@@ -1,0 +1,52 @@
+Starting room: 0
+Cleaned room: 0
+Traveling from room: 0 to room: 1
+Cleaned room: 1
+Traveling from room: 1 to room: 0
+Traveling from room: 0 to room: 2
+Cleaned room: 2
+Traveling from room: 2 to room: 0
+Traveling from room: 0 to room: 3
+Cleaned room: 3
+Traveling from room: 3 to room: 0
+Traveling from room: 0 to room: 4
+Cleaned room: 4
+Traveling from room: 4 to room: 0
+Traveling from room: 0 to room: 5
+Cleaned room: 5
+Traveling from room: 5 to room: 0
+Traveling from room: 0 to room: 6
+Cleaned room: 6
+Traveling from room: 6 to room: 0
+Traveling from room: 0 to room: 7
+Cleaned room: 7
+Traveling from room: 7 to room: 0
+Traveling from room: 0 to room: 8
+Cleaned room: 8
+Traveling from room: 8 to room: 0
+Traveling from room: 0 to room: 9
+Cleaned room: 9
+Traveling from room: 9 to room: 0
+Traveling from room: 0 to room: 10
+Cleaned room: 10
+Traveling from room: 10 to room: 0
+Traveling from room: 0 to room: 13
+Cleaned room: 13
+Traveling from room: 13 to room: 11
+Cleaned room: 11
+Traveling from room: 11 to room: 13
+Traveling from room: 13 to room: 12
+Cleaned room: 12
+Traveling from room: 12 to room: 13
+Traveling from room: 13 to room: 0
+Traveling from room: 0 to room: 14
+Cleaned room: 14
+Traveling from room: 14 to room: 0
+Cleaning complete!
+: 12
+Traveling from room: 12 to room: 13
+Traveling from room: 13 to room: 0
+Traveling from room: 0 to room: 14
+Cleaned room: 14
+Traveling from room: 14 to room: 0
+Cleaning complete!
